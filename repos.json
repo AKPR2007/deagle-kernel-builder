@@ -1,8 +1,8 @@
 [  {
     "kernelSource": {
       "name": "TULIP-Deagle",
-      "repo": "https://github.com/AKPR2007/kernel-sdm660",
-      "branch": "deagle",
+      "repo": "https://github.com/okta-10/mystic_kernel_sdm660-4.4",
+      "branch": "mystic-eol",
       "device": "tulip"
     },
     "withKernelSU": false,
