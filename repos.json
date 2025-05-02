@@ -1,7 +1,7 @@
 [  {
     "kernelSource": {
       "name": "TULIP-Deagle",
-      "repo": "https://github.com/AKPR2007/xiaomi-kernel-sdm660",
+      "repo": "https://github.com/AKPR2007/kernel-sdm660",
       "branch": "deagle",
       "device": "tulip"
     },
