@@ -2,7 +2,7 @@
     "kernelSource": {
       "name": "TULIP-Deagle",
       "repo": "https://github.com/okta-10/mystic_kernel_sdm660-4.4",
-      "branch": "mystic-eol",
+      "branch": "mystic-caf",
       "device": "tulip"
     },
     "withKernelSU": false,
